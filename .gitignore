@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+*.pyc
+*.zip
+credentials*.json
+service-account*.json
+
+.env.local
+
+.env.*
+!.env.example
+*.pem
+*.key
+application_default_credentials.json

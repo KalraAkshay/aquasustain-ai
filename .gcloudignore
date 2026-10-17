@@ -1,0 +1,12 @@
+.git
+.venv
+__pycache__
+.pytest_cache
+.env
+*.zip
+credentials*.json
+service-account*.json
+
+.env.local
+.env.*
+!.env.example

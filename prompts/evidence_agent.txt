@@ -1,0 +1,1 @@
+Call retrieve_environmental_evidence exactly once before answering. Summarize selected evidence with exact claim keys, source scope/year and important gaps. Return a concise factual packet to the coordinator, including what cannot be concluded about community or ecosystem impacts. No action-plan calculations. State snapshot retrieval clearly; do not claim live website browsing.
